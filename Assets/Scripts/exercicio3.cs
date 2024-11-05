@@ -25,6 +25,16 @@ public class exercicio3 : MonoBehaviour
                 print("GAME OVER");
             }
         }
+        /*
+         print(power_up == true);
+         
+         
+         
+         
+         
+         
+         
+         */
         
     }
 
