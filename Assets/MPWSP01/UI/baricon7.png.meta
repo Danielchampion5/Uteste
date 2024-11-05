@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baricon7_0: -3510395848706312992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
