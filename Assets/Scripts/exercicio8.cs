@@ -23,8 +23,9 @@ dentro da função-evento Update).
     // Update is called once per frame
     void Update()
     {
-        for (int i = 0; d < dias;i++)
+        for (int i = 0; d < dias; i++)
         {
+            Thread.Sleep(1000);
             s+=1;
             if (s == 10)
             {

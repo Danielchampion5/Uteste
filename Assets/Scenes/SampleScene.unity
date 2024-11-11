@@ -270,6 +270,7 @@ GameObject:
   - component: {fileID: 309391095}
   - component: {fileID: 309391094}
   - component: {fileID: 309391096}
+  - component: {fileID: 309391097}
   m_Layer: 0
   m_Name: Microbius pixelart_by_AxulArt_17
   m_TagString: Untagged
@@ -490,6 +491,22 @@ MonoBehaviour:
   dias: 4
   horas: 0
   d: 0
+  s: 0
+--- !u!114 &309391097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309391087}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d2009000254fb24486f71c234650f8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resposta: 2
+  resposta2: 1
+  resposta3: 3
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
